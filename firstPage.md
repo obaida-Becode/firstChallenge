@@ -1,5 +1,5 @@
-# Zakaria 
-## _Junier Web Developer_
+# Zakaria Obaida
+## _Front end Developer_
 
 I am 37 years old, i moved to Belguim from 6 years ago.
 I like the IT and of cours the coding, my target is to become a Web developer 👩‍💻 for that i started new adventure with [***becode***](https://becode.org/) .
@@ -18,12 +18,16 @@ Like
 >I want to know more about web developer to have good experience, and I want spend interisting time with all new friends.
 
 
->- I do not have a big fears in this experince.
+> - The Fears : 
+ >-  I do not have a big fears in this experince.
 
->-  I want to become a good programmer with good skills.
 
-> - Mutual trust and respect.
-> - Working like one hand for perfect result.
-> - They have fun.
+>- I look forward to :
+ >- I want to become a programmer with good skills.
+
+>- The Three things you value the most to work as a team are :
+>1. Mutual trust and respect.
+>2. Working like one hand for perfect result.
+>3. They have fun.
 
 ![alt text](https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif)
